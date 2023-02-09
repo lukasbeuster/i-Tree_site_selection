@@ -1,4 +1,4 @@
-# Site selection protocol for the i-trees project
+# Site selection protocol for the i-Trees project
 As part of the i-Trees project a major data collection campaign will be started in 2023. Over the course of the summer the cooling effect of different tree species will be assessed in 8 different cities in the Netherlands.
 
 There are tens of thousands of trees under municipal management in the respective cities. This poses the question of how to select the trees to be studied. Additional requirements for the selection are that trees in each city should be similarly situated. This prompts the need for a reproduceable approach for tree selection (hereafter the tree selection protocol).
