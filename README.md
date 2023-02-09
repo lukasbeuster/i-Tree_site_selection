@@ -9,15 +9,19 @@ Criteria selection is implemented as follows:
 
 Trees in parks:
 
-trees shall be at least x m away from other landuse
-trees shall be isolated from other trees (free standing), which is assessed by calculating the crown cover % in a x m buffer around each tree.
-trees shall be in a specific density environment which is assessed by calculating the Ground Space Index (a built up area density measure) in a x m buffer around it.
+
+- trees shall be at least x m away from other landuse
+- trees shall be isolated from other trees (free standing), which is assessed by calculating the crown cover % in a x m buffer around each tree.
+- trees shall be in a specific density environment which is assessed by calculating the Ground Space Index (a built up area density measure) in a x m buffer around it.
+
+
 Trees in street canyons:
 
-trees shall be located in streets that are oriented e-w (within a healthy margin) so building shadows don't interfere with the measurements.
-trees shall be located in streets with a width >= x.
-trees shall be located in streets with a h/w ratio of <= x.
-trees shall be in a specific density environment which is assessed by calculating the Ground Space Index and Floor Space Index.
+
+- trees shall be located in streets that are oriented e-w (within a healthy margin) so building shadows don't interfere with the measurements.
+- trees shall be located in streets with a width >= x.
+- trees shall be located in streets with a h/w ratio of <= x.
+- trees shall be in a specific density environment which is assessed by calculating the Ground Space Index and Floor Space Index.
 
 If not already done, please install all libraries and dependencies using the environment.txt file using:
 
